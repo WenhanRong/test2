@@ -1,1 +1,1 @@
-Hello
+log.out("Hello World.");
